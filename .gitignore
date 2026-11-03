@@ -1,0 +1,18 @@
+# Archivos de entorno y logs
+*.log
+*.tmp
+.env
+.DS_Store
+Thumbs.db
+
+# Respaldos de bases de datos
+*.dump
+*.sql.bak
+*.bak
+
+# Certificados y secretos
+*.key
+*.pem
+*.crt
+*.pfx
+
